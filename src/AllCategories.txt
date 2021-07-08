@@ -1,0 +1,12 @@
+Chinese
+Japanese
+Korean
+Italian
+Indian
+Breakfast
+Thai
+Vietnamese
+American
+Mexican
+French
+Spanish
