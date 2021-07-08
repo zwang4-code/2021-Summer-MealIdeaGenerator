@@ -14,7 +14,7 @@ import java.util.Scanner;
  * This MealIdea program randomly generates meal ideas based on user-selected culture
  * category or randomly generated culture category.
  *
- * @author Zi Wang
+ * @author Zi
  * @date Jun 28, 2021
  */
 
